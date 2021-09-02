@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on nothing atm
-- 🌱 I’m currently learning Kotlin
+- 🔭 I’m currently working on Heliun
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me: Kansio#5244
 
 Some of my recent projects:
