@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Heliun
+- 🔭 I’m currently working on Helium
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me: Kansio#5244
 
