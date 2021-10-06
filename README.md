@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Helium
-- 🌱 I’m currently learning Rust
-- 📫 How to reach me: Kansio#5244
+- 🔭 I’m currently working on Sulfur
+- 📫 How to reach me: Kansio#0001
 
 Some of my recent projects:
 - [Indium](https://github.com/ZonixUSNetwork/Indium) - a plugin which includes features such as staff chat, requests and reports.
