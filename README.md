@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Sulfur
+- 🔭 I’m currently working on stuff
 - 📫 How to reach me: Kansio#0001
 
 Some of my recent projects:
